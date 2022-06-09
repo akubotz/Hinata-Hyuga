@@ -41,13 +41,13 @@
   }
 
   // Message Promote User
-  exports.proMote =() => {
+  exports.admin =() => {
   return `Sukses Menaikkan Jabatan User ☑️
   `
   }
 
   // Message Demote User
-  exports.deMote =() => {
+  exports.babu =() => {
   return `Sukses Menurunkan Jabatan User ☑️
   `
   }
