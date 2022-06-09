@@ -633,19 +633,21 @@ zarrah, niscaya dia akan melihat
 
   // Welcome
   exports.welcome = () => {
-  return `Intro Dulu Yuk Biar Keren 🤙
+  return `Yahh Beban GC nambah, Intro ya anjg biar kek GC Seleb
 
-📛 Nama : 
-🔞 Umur :
-🏙️ Askot :
+🚶 Nama : 
+🚶 Umur :
+🚶 Askot:
+🚶 Nyokap:
+🚶 Bokap :
 
-Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada
+Gausah Bertingkah ya dek, Gausah sok seleb, Gausah Soker, Disini semua sama *Rata*
   `
   }
 
   // Leave
   exports.goodbye = () => {
-  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿
+  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🗿
   `
   } 
 
@@ -1223,6 +1225,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ Deff
   ✎ Yoga
   ✎ Riy
+  ✎ KoKoRey
   `
   }
   
